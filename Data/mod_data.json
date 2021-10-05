@@ -1,0 +1,18 @@
+{
+  "mods": [
+    {
+      "name": "BepInEx",
+      "tag": "",
+      "gitPath": "BepInEx/BepInEx",
+      "releaseId": 1,
+      "author": "BepInEx Team",
+      "group": "Core"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Core",
+      "rank": 0
+    }
+  ]
+}
