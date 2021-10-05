@@ -2,11 +2,12 @@
   "mods": [
     {
       "name": "BepInEx",
-      "tag": "",
+      "description": "Unity / XNA game patcher and plugin framework.",
+      "author": "BepInEx Team",
       "gitPath": "BepInEx/BepInEx",
       "releaseId": 1,
-      "author": "BepInEx Team",
-      "group": "Core"
+      "group": "Core",
+      "tag": ""
     }
   ],
   "groups": [
