@@ -35,6 +35,6 @@ jobs:
       run: |
         git config --global user.name 'DeadlyKitten'
         git config --global user.email 'DeadlyKitten@users.noreply.github.com'
-        git add modinfo.json
+        git add API/modinfo.json
         git commit -am "Update modinfo.json"
         git push
