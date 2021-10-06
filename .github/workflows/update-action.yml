@@ -1,4 +1,4 @@
-name: Check for Mod Updates
+name: Check for Updates
 on: 
   push:
     branches:
@@ -10,7 +10,7 @@ on:
 
 jobs:
   test:
-    name: Check for Mod Updates
+    name: Check for Updates
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
@@ -38,5 +38,6 @@ jobs:
         git config --global user.name 'DeadlyKitten'
         git config --global user.email 'DeadlyKitten@users.noreply.github.com'
         git add API/modinfo.json
-        git commit -am "Update modinfo.json"
+        git add API/groupinfo.json
+        git commit -am "Update api data"
         git push
