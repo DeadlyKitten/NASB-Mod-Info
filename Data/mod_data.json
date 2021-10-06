@@ -11,11 +11,32 @@
     },
     {
       "name": "Mirror Match Mod",
-      "description": "Recolor for duplicate characters in Nick All-Star Brawl",
+      "description": "Recolor for duplicate characters in Nick All-Star Brawl.",
       "author": "Megalon",
       "gitPath": "megalon/nick-mirror-match-mod",
       "releaseId": 0,
       "group": "Cosmetic",
+      "tag": ""
+    },
+    {
+      "name": "Voice Mod",
+      "description": "This mod allows you to add custom voice lines to all characters!",
+      "author": "Steven 🎀",
+      "gitPath": "DeadlyKitten/NickVoiceMod",
+      "releaseId": 0,
+      "group": "Audio",
+      "dependencies": [
+        "Newtonsoft.JSON"
+      ],
+      "tag": ""
+    },
+    {
+      "name": "NASB Custom Music Mod",
+      "description": "This mod allows you to add custom songs to each stage and menu in the game!",
+      "author": "Megalon",
+      "gitPath": "megalon/nick-custom-music-mod",
+      "releaseId": 0,
+      "group": "Audio",
       "tag": ""
     },
     {
@@ -34,8 +55,12 @@
       "rank": 0
     },
     {
-      "name": "Cosmetic",
+      "name": "Audio",
       "rank": 1
+    },
+    {
+      "name": "Cosmetic",
+      "rank": 2
     },
     {
       "name" : "Libraries",
