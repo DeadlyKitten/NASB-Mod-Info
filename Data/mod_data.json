@@ -10,6 +10,15 @@
       "tag": ""
     },
     {
+      "name": "Mirror Match Mod",
+      "description": "Recolor for duplicate characters in Nick All-Star Brawl",
+      "author": "Megalon",
+      "gitPath": "megalon/nick-mirror-match-mod",
+      "releaseId": 0,
+      "group": "Cosmetic",
+      "tag": ""
+    },
+    {
       "name" : "Newtonsoft.JSON",
       "description": "Json.NET is a popular high-performance JSON framework for .NET",
       "author" : "James Newton-King",
@@ -23,6 +32,10 @@
     {
       "name": "Core",
       "rank": 0
+    },
+    {
+      "name": "Cosmetic",
+      "rank": 1
     },
     {
       "name" : "Libraries",
