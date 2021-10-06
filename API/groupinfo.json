@@ -2,5 +2,9 @@
   {
     "name": "Core",
     "rank": 0
+  },
+  {
+    "name": "Libraries",
+    "rank": 99
   }
 ]
