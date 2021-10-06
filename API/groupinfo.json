@@ -4,8 +4,12 @@
     "rank": 0
   },
   {
-    "name": "Cosmetic",
+    "name": "Audio",
     "rank": 1
+  },
+  {
+    "name": "Cosmetic",
+    "rank": 2
   },
   {
     "name": "Libraries",
