@@ -8,12 +8,25 @@
       "releaseId": 1,
       "group": "Core",
       "tag": ""
-    }
+    },
+    {
+      "name" : "Newtonsoft.JSON",
+      "description": "Json.NET is a popular high-performance JSON framework for .NET",
+      "author" : "James Newton-King",
+      "gitPath" : "legoandmars/Newtonsoft.Json",
+      "releaseId" : 0,
+      "group" : "Libraries",
+      "tag" : ""
+   }
   ],
   "groups": [
     {
       "name": "Core",
       "rank": 0
+    },
+    {
+      "name" : "Libraries",
+      "rank" : 99
     }
   ]
 }
