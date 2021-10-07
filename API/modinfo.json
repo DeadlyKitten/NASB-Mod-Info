@@ -40,6 +40,26 @@
     "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
   },
   {
+    "name": "Star Power",
+    "author": "Bobbie",
+    "description": "Makes every character a rapidly-flashing rainbow color.",
+    "version": "1.0.0",
+    "dependencies": [],
+    "git_path": "",
+    "group": "Joke / Meme",
+    "download_url": "https://cdn.discordapp.com/attachments/895542228250947614/895803288207900712/StarPower.zip"
+  },
+  {
+    "name": "Vine Boom",
+    "author": "Bobbie",
+    "description": "Replaces every sound in the game with a loud vine boom sound effect",
+    "version": "1.0.0",
+    "dependencies": [],
+    "git_path": "",
+    "group": "Joke / Meme",
+    "download_url": "https://cdn.discordapp.com/attachments/895542228250947614/895800477734809681/VineBoom.zip"
+  },
+  {
     "name": "Voice Mod",
     "author": "Steven 🎀",
     "description": "This mod allows you to add custom voice lines to all characters!",
