@@ -38,5 +38,17 @@
     "git_path": "legoandmars/Newtonsoft.Json",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
+  },
+  {
+    "name": "Voice Mod",
+    "author": "Steven 🎀",
+    "description": "This mod allows you to add custom voice lines to all characters!",
+    "version": "1.0.0",
+    "dependencies": [
+      "Newtonsoft.JSON"
+    ],
+    "git_path": "DeadlyKitten/NickVoiceMod",
+    "group": "Audio",
+    "download_url": "https://github.com/DeadlyKitten/NickVoiceMod/releases/download/1.0.0/VoiceMod.zip"
   }
 ]
