@@ -47,7 +47,29 @@
       "releaseId" : 0,
       "group" : "Libraries",
       "tag" : ""
-   }
+   },
+   {
+      "name": "Vine Boom",
+      "description": "Replaces every sound in the game with a loud vine boom sound effect",
+      "author": "Bobbie",
+      "gitPath": "",
+      "releaseId": 0,
+      "group": "Joke / Meme",
+      "tag": "",
+      "downloadLink": "https://cdn.discordapp.com/attachments/895542228250947614/895800477734809681/VineBoom.zip",
+      "version": "1.0.0"
+    },
+    {
+      "name": "Star Power",
+      "description": "Makes every character a rapidly-flashing rainbow color.",
+      "author": "Bobbie",
+      "gitPath": "",
+      "releaseId": 0,
+      "group": "Joke / Meme",
+      "tag": "",
+      "downloadLink": "https://cdn.discordapp.com/attachments/895542228250947614/895803288207900712/StarPower.zip",
+      "version": "1.0.0"
+    }
   ],
   "groups": [
     {
@@ -61,6 +83,10 @@
     {
       "name": "Cosmetic",
       "rank": 2
+    },
+    {
+      "name": "Joke / Meme",
+      "rank": 3
     },
     {
       "name" : "Libraries",
