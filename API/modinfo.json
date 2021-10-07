@@ -50,6 +50,16 @@
     "download_url": "https://cdn.discordapp.com/attachments/895542228250947614/895803288207900712/StarPower.zip"
   },
   {
+    "name": "Toph is Blind",
+    "author": "Steven 🎀",
+    "description": "https://www.youtube.com/watch?v=D7E-D1KvXxE",
+    "version": "1.0.0",
+    "dependencies": [],
+    "git_path": "DeadlyKitten/TophIsBlind",
+    "group": "Joke / Meme",
+    "download_url": "https://github.com/DeadlyKitten/TophIsBlind/releases/download/1.0.0/TophIsBlind.zip"
+  },
+  {
     "name": "Vine Boom",
     "author": "Bobbie",
     "description": "Replaces every sound in the game with a loud vine boom sound effect",
