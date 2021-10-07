@@ -23,11 +23,11 @@
     "name": "NASB Custom Music Mod",
     "author": "Megalon",
     "description": "This mod allows you to add custom songs to each stage and menu in the game!",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dependencies": [],
     "git_path": "megalon/nick-custom-music-mod",
     "group": "Audio",
-    "download_url": "https://github.com/megalon/nick-custom-music-mod/releases/download/v1.0.1/NickCustomMusicMod-v1-0-1.zip"
+    "download_url": "https://github.com/megalon/nick-custom-music-mod/releases/download/v1.0.2/NickCustomMusicMod-v1-0-2.zip"
   },
   {
     "name": "Newtonsoft.JSON",
