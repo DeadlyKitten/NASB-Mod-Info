@@ -69,6 +69,15 @@
       "tag": "",
       "downloadLink": "https://cdn.discordapp.com/attachments/895542228250947614/895803288207900712/StarPower.zip",
       "version": "1.0.0"
+    },
+    {
+      "name": "Toph is Blind",
+      "description": "https://www.youtube.com/watch?v=D7E-D1KvXxE",
+      "author": "Steven 🎀",
+      "gitPath": "DeadlyKitten/TophIsBlind",
+      "releaseId": 0,
+      "group": "Joke / Meme",
+      "tag": ""
     }
   ],
   "groups": [
