@@ -50,5 +50,15 @@
     "git_path": "DeadlyKitten/NickVoiceMod",
     "group": "Audio",
     "download_url": "https://github.com/DeadlyKitten/NickVoiceMod/releases/download/1.0.0/VoiceMod.zip"
+  },
+  {
+    "name": "Vine Boom",
+    "author": "Bobbie",
+    "description": "Replaces every sound in the game with a loud vine boom sound effect",
+    "version": "1.0.0",
+    "dependencies": [],
+    "git_path": "",
+    "group": "Joke / Meme",
+    "download_url": "https://cdn.discordapp.com/attachments/895542228250947614/895800477734809681/VineBoom.zip"
   }
 ]
