@@ -40,15 +40,17 @@
       "tag": ""
     },
     {
-      "name" : "Newtonsoft.JSON",
-      "description": "Json.NET is a popular high-performance JSON framework for .NET",
-      "author" : "James Newton-King",
-      "gitPath" : "legoandmars/Newtonsoft.Json",
-      "releaseId" : 0,
-      "group" : "Libraries",
-      "tag" : ""
-   },
-   {
+      "name": "Just Take Me To The Main Menu",
+      "description": "Skips the logos and loading screens at the beginning and brings you straight to the main menu.",
+      "author": "Bobbie",
+      "gitPath": "",
+      "releaseId": 0,
+      "group": "Tweaks / Tools",
+      "tag": "",
+      "downloadLink": "https://cdn.discordapp.com/attachments/895542228250947614/895903675174752256/JustTakeMeToTheMainMenu.zip",
+      "version": "1.0.0"
+    },
+    {
       "name": "Vine Boom",
       "description": "Replaces every sound in the game with a loud vine boom sound effect",
       "author": "Bobbie",
@@ -89,7 +91,16 @@
       "tag": "",
       "downloadLink": "https://cdn.discordapp.com/attachments/895542228250947614/895848329890656286/patblue.zip",
       "version": "1.0.0"
-    }
+    },
+    {
+      "name" : "Newtonsoft.JSON",
+      "description": "Json.NET is a popular high-performance JSON framework for .NET",
+      "author" : "James Newton-King",
+      "gitPath" : "legoandmars/Newtonsoft.Json",
+      "releaseId" : 0,
+      "group" : "Libraries",
+      "tag" : ""
+   }
   ],
   "groups": [
     {
@@ -105,8 +116,12 @@
       "rank": 2
     },
     {
-      "name": "Joke / Meme",
+      "name": "Tweaks / Tools",
       "rank": 3
+    },
+    {
+      "name": "Joke / Meme",
+      "rank": 4
     },
     {
       "name" : "Libraries",
