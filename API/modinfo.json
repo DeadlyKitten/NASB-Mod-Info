@@ -10,6 +10,16 @@
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.17/BepInEx_x64_5.4.17.0.zip"
   },
   {
+    "name": "Hide Replay UI",
+    "author": "Bobbie",
+    "description": "Hides the controls when viewing a replay, allowing you to record better looking video.",
+    "version": "1.0.0",
+    "dependencies": [],
+    "git_path": "",
+    "group": "Tweaks / Tools",
+    "download_url": "https://cdn.discordapp.com/attachments/895542228250947614/896481998615511111/HideReplayUI.zip"
+  },
+  {
     "name": "Just Take Me To The Main Menu",
     "author": "Bobbie",
     "description": "Skips the logos and loading screens at the beginning and brings you straight to the main menu.",
