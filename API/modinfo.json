@@ -80,6 +80,18 @@
     "download_url": "https://cdn.discordapp.com/attachments/895542228250947614/895800477734809681/VineBoom.zip"
   },
   {
+    "name": "Voice Mod",
+    "author": "Steven 🎀",
+    "description": "This mod allows you to add custom voice lines to all characters!",
+    "version": "1.1.0",
+    "dependencies": [
+      "Newtonsoft.JSON"
+    ],
+    "git_path": "DeadlyKitten/NickVoiceMod",
+    "group": "Audio",
+    "download_url": "https://github.com/DeadlyKitten/NickVoiceMod/releases/download/1.1.0/VoiceMod-1.1.0.zip"
+  },
+  {
     "name": "patblue",
     "author": "Steven 🎀",
     "description": "Makes Patrick blue. That's it.",
