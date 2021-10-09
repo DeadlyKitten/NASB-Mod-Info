@@ -51,6 +51,17 @@
       "version": "1.0.0"
     },
     {
+      "name": "Hide Replay UI",
+      "description": "Hides the controls when viewing a replay, allowing you to record better looking video.",
+      "author": "Bobbie",
+      "gitPath": "",
+      "releaseId": 0,
+      "group": "Tweaks / Tools",
+      "tag": "",
+      "downloadLink": "https://cdn.discordapp.com/attachments/895542228250947614/896481998615511111/HideReplayUI.zip",
+      "version": "1.0.0"
+    },
+    {
       "name": "Vine Boom",
       "description": "Replaces every sound in the game with a loud vine boom sound effect",
       "author": "Bobbie",
