@@ -40,6 +40,16 @@
     "download_url": "https://github.com/megalon/nick-mirror-match-mod/releases/download/v1.0.1/NickMirrorMatchMod-v1-0-1.zip"
   },
   {
+    "name": "NASB Custom Music Mod",
+    "author": "Megalon",
+    "description": "This mod allows you to add custom songs to each stage and menu in the game!",
+    "version": "1.3.3",
+    "dependencies": [],
+    "git_path": "megalon/nick-custom-music-mod",
+    "group": "Audio",
+    "download_url": "https://github.com/megalon/nick-custom-music-mod/releases/download/v1.3.3/NickCustomMusicMod-v1-3-3.zip"
+  },
+  {
     "name": "Newtonsoft.JSON",
     "author": "James Newton-King",
     "description": "Json.NET is a popular high-performance JSON framework for .NET",
@@ -78,6 +88,18 @@
     "git_path": "",
     "group": "Joke / Meme",
     "download_url": "https://cdn.discordapp.com/attachments/895542228250947614/895800477734809681/VineBoom.zip"
+  },
+  {
+    "name": "Voice Mod",
+    "author": "Steven 🎀",
+    "description": "This mod allows you to add custom voice lines to all characters!",
+    "version": "1.1.0",
+    "dependencies": [
+      "Newtonsoft.JSON"
+    ],
+    "git_path": "DeadlyKitten/NickVoiceMod",
+    "group": "Audio",
+    "download_url": "https://github.com/DeadlyKitten/NickVoiceMod/releases/download/1.1.0/VoiceMod-1.1.0.zip"
   },
   {
     "name": "patblue",
