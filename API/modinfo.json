@@ -37,7 +37,7 @@
     "dependencies": [],
     "git_path": "",
     "group": "Core",
-    "download_url": "https://images.thdstatic.com/productImages/83adec9f-3751-433f-8d7f-74e766b57a22/svn/alpine-corporation-garden-statues-wac406-64_1000.jpg"
+    "download_url": "https://cdn.discordapp.com/attachments/890889802935849003/901986434565672990/gnome.zip"
   },
   {
     "name": "Mirror Match Mod",
@@ -53,11 +53,11 @@
     "name": "NASB Custom Music Mod",
     "author": "Megalon",
     "description": "This mod allows you to add custom songs to each stage and menu in the game!",
-    "version": "1.4.0",
+    "version": "1.4.1",
     "dependencies": [],
     "git_path": "megalon/nick-custom-music-mod",
     "group": "Audio",
-    "download_url": "https://github.com/megalon/nick-custom-music-mod/releases/download/v1.4.0/NickCustomMusicMod-v1-4-0.zip"
+    "download_url": "https://github.com/megalon/nick-custom-music-mod/releases/download/v1.4.1/NickCustomMusicMod-v1-4-1.zip"
   },
   {
     "name": "Newtonsoft.JSON",
