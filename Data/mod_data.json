@@ -1,6 +1,17 @@
 {
   "mods": [
     {
+      "name": "MANUALLY UPDATE THE LAUNCHER YOUR SHITS FUCKED",
+      "description": "",
+      "author": "",
+      "gitPath": "",
+      "releaseId": 0,
+      "group": "Core",
+      "tag": "",
+      "downloadLink": "https://images.thdstatic.com/productImages/83adec9f-3751-433f-8d7f-74e766b57a22/svn/alpine-corporation-garden-statues-wac406-64_1000.jpg",
+      "version": "1.0.0"
+    },
+    {
       "name": "BepInEx",
       "description": "Unity / XNA game patcher and plugin framework.",
       "author": "BepInEx Team",
