@@ -1,15 +1,5 @@
 [
   {
-    "name": "BepInEx",
-    "author": "BepInEx Team",
-    "description": "Unity / XNA game patcher and plugin framework.",
-    "version": "5.4.17",
-    "dependencies": [],
-    "git_path": "BepInEx/BepInEx",
-    "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.17/BepInEx_x64_5.4.17.0.zip"
-  },
-  {
     "name": "Hide Replay UI",
     "author": "Bobbie",
     "description": "Hides the controls when viewing a replay, allowing you to record better looking video.",
@@ -40,26 +30,6 @@
     "download_url": "https://cdn.discordapp.com/attachments/890889802935849003/901986434565672990/gnome.zip"
   },
   {
-    "name": "Mirror Match Mod",
-    "author": "Megalon",
-    "description": "Recolor for duplicate characters in Nick All-Star Brawl.",
-    "version": "1.0.1",
-    "dependencies": [],
-    "git_path": "megalon/nick-mirror-match-mod",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/megalon/nick-mirror-match-mod/releases/download/v1.0.1/NickMirrorMatchMod-v1-0-1.zip"
-  },
-  {
-    "name": "Newtonsoft.JSON",
-    "author": "James Newton-King",
-    "description": "Json.NET is a popular high-performance JSON framework for .NET",
-    "version": "12.0.3",
-    "dependencies": [],
-    "git_path": "legoandmars/Newtonsoft.Json",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
-  },
-  {
     "name": "Star Power",
     "author": "Bobbie",
     "description": "Makes every character a rapidly-flashing rainbow color.",
@@ -70,16 +40,6 @@
     "download_url": "https://cdn.discordapp.com/attachments/895542228250947614/895803288207900712/StarPower.zip"
   },
   {
-    "name": "Toph is Blind",
-    "author": "Steven 🎀",
-    "description": "https://www.youtube.com/watch?v=D7E-D1KvXxE",
-    "version": "1.0.0",
-    "dependencies": [],
-    "git_path": "DeadlyKitten/TophIsBlind",
-    "group": "Joke / Meme",
-    "download_url": "https://github.com/DeadlyKitten/TophIsBlind/releases/download/1.0.0/TophIsBlind.zip"
-  },
-  {
     "name": "Vine Boom",
     "author": "Bobbie",
     "description": "Replaces every sound in the game with a loud vine boom sound effect",
@@ -88,18 +48,6 @@
     "git_path": "",
     "group": "Joke / Meme",
     "download_url": "https://cdn.discordapp.com/attachments/895542228250947614/895800477734809681/VineBoom.zip"
-  },
-  {
-    "name": "Voice Mod",
-    "author": "Steven 🎀",
-    "description": "This mod allows you to add custom voice lines to all characters!",
-    "version": "1.1.0",
-    "dependencies": [
-      "Newtonsoft.JSON"
-    ],
-    "git_path": "DeadlyKitten/NickVoiceMod",
-    "group": "Audio",
-    "download_url": "https://github.com/DeadlyKitten/NickVoiceMod/releases/download/1.1.0/VoiceMod-1.1.0.zip"
   },
   {
     "name": "patblue",
