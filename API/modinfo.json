@@ -1,5 +1,15 @@
 [
   {
+    "name": "BepInEx",
+    "author": "BepInEx Team",
+    "description": "Unity / XNA game patcher and plugin framework.",
+    "version": "5.4.18",
+    "dependencies": [],
+    "git_path": "BepInEx/BepInEx",
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.18/BepInEx_x64_5.4.18.0.zip"
+  },
+  {
     "name": "Hide Replay UI",
     "author": "Bobbie",
     "description": "Hides the controls when viewing a replay, allowing you to record better looking video.",
@@ -58,16 +68,6 @@
     "git_path": "",
     "group": "Joke / Meme",
     "download_url": "https://cdn.discordapp.com/attachments/895542228250947614/895803288207900712/StarPower.zip"
-  },
-  {
-    "name": "Toph is Blind",
-    "author": "Steven 🎀",
-    "description": "https://www.youtube.com/watch?v=D7E-D1KvXxE",
-    "version": "1.0.0",
-    "dependencies": [],
-    "git_path": "DeadlyKitten/TophIsBlind",
-    "group": "Joke / Meme",
-    "download_url": "https://github.com/DeadlyKitten/TophIsBlind/releases/download/1.0.0/TophIsBlind.zip"
   },
   {
     "name": "Vine Boom",
