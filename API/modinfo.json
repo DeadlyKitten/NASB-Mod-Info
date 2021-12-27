@@ -1,15 +1,5 @@
 [
   {
-    "name": "BepInEx",
-    "author": "BepInEx Team",
-    "description": "Unity / XNA game patcher and plugin framework.",
-    "version": "5.4.18",
-    "dependencies": [],
-    "git_path": "BepInEx/BepInEx",
-    "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.18/BepInEx_x64_5.4.18.0.zip"
-  },
-  {
     "name": "Hide Replay UI",
     "author": "Bobbie",
     "description": "Hides the controls when viewing a replay, allowing you to record better looking video.",
@@ -38,16 +28,6 @@
     "git_path": "",
     "group": "Core",
     "download_url": "https://cdn.discordapp.com/attachments/890889802935849003/901986434565672990/gnome.zip"
-  },
-  {
-    "name": "Mirror Match Mod",
-    "author": "Megalon",
-    "description": "Recolor for duplicate characters in Nick All-Star Brawl.",
-    "version": "1.0.1",
-    "dependencies": [],
-    "git_path": "megalon/nick-mirror-match-mod",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/megalon/nick-mirror-match-mod/releases/download/v1.0.1/NickMirrorMatchMod-v1-0-1.zip"
   },
   {
     "name": "Newtonsoft.JSON",
