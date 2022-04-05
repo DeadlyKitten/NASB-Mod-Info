@@ -43,11 +43,11 @@
     "name": "Mirror Match Mod",
     "author": "Megalon",
     "description": "Recolor for duplicate characters in Nick All-Star Brawl.",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "dependencies": [],
     "git_path": "megalon/nick-mirror-match-mod",
     "group": "Cosmetic",
-    "download_url": "https://github.com/megalon/nick-mirror-match-mod/releases/download/v1.0.1/NickMirrorMatchMod-v1-0-1.zip"
+    "download_url": "https://github.com/megalon/nick-mirror-match-mod/releases/download/v1.0.0/NickMirrorMatchMod.dll"
   },
   {
     "name": "Newtonsoft.JSON",
