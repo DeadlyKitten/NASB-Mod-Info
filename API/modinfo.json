@@ -1,15 +1,5 @@
 [
   {
-    "name": "BepInEx",
-    "author": "BepInEx Team",
-    "description": "Unity / XNA game patcher and plugin framework.",
-    "version": "5.4.21",
-    "dependencies": [],
-    "git_path": "BepInEx/BepInEx",
-    "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip"
-  },
-  {
     "name": "Hide Replay UI",
     "author": "Bobbie",
     "description": "Hides the controls when viewing a replay, allowing you to record better looking video.",
