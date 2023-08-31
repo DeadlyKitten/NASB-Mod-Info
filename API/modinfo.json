@@ -50,16 +50,6 @@
     "download_url": "https://github.com/megalon/nick-mirror-match-mod/releases/download/v1.0.1/NickMirrorMatchMod-v1-0-1.zip"
   },
   {
-    "name": "Newtonsoft.JSON",
-    "author": "James Newton-King",
-    "description": "Json.NET is a popular high-performance JSON framework for .NET",
-    "version": "12.0.3",
-    "dependencies": [],
-    "git_path": "legoandmars/Newtonsoft.Json",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
-  },
-  {
     "name": "Star Power",
     "author": "Bobbie",
     "description": "Makes every character a rapidly-flashing rainbow color.",
@@ -68,16 +58,6 @@
     "git_path": "",
     "group": "Joke / Meme",
     "download_url": "https://cdn.discordapp.com/attachments/895542228250947614/895803288207900712/StarPower.zip"
-  },
-  {
-    "name": "Toph is Blind",
-    "author": "Steven 🎀",
-    "description": "https://www.youtube.com/watch?v=D7E-D1KvXxE",
-    "version": "1.0.0",
-    "dependencies": [],
-    "git_path": "DeadlyKitten/TophIsBlind",
-    "group": "Joke / Meme",
-    "download_url": "https://github.com/DeadlyKitten/TophIsBlind/releases/download/1.0.0/TophIsBlind.zip"
   },
   {
     "name": "Vine Boom",
